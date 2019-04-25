@@ -1,6 +1,6 @@
 # json2formdata
 
-[![CircleCI](https://circleci.com/gh/JackPu/daycaca.svg?style=shield)](https://circleci.com/gh/JackPu/daycaca)
+[![CircleCI](https://travis-ci.org/JackPu/json2formdata.svg?branch=master)](https://circleci.com/gh/JackPu/json2formdata)
 [![npm](https://img.shields.io/npm/v/json2formdata.svg?maxAge=2592000)]()
 
 
