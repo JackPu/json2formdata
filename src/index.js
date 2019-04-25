@@ -8,7 +8,6 @@ function _buildFormData(formData, data, parentKey) {
     });
   } else {
     const value = data == null ? '' : data;
-    console.log(parentKey);
     formData.append(parentKey, value);
   }
 }

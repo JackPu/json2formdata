@@ -1,7 +1,7 @@
 {
   "name": "json2formdata",
-  "version": "1.0.1",
-  "description": "a pure JavaScript lib to handle image via canvas",
+  "version": "1.0.3",
+  "description": "A function to transform JSON to form data.",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --config ./build/webpack.build.config.js",
@@ -18,10 +18,9 @@
     "dist"
   ],
   "keywords": [
-    "image",
-    "canvas",
-    "rotate",
-    "compress"
+    "data",
+    "json",
+    "formdata"
   ],
   "author": "Jack Pu",
   "license": "ISC",
