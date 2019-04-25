@@ -4,8 +4,7 @@
 [![npm](https://img.shields.io/npm/v/json2formdata.svg?maxAge=2592000)]()
 
 
-Transform JSON to Formdata.
-
+A function to transform JSON to form data.
 
 ## How to use
 
