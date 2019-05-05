@@ -11,7 +11,7 @@ A function to transform JSON to form data.
 ### Npm
 
 ``` bash
-$  npm install json2formdata -save
+$  npm install json2formdata --save
 ```
 
 
@@ -21,5 +21,6 @@ import json2formdata from 'json2formdata';
 
 const data = json2formdata('{"a":[{"a":"a"},{"b":"b"}]}');
 
+data.get('a') // [{...}]
 //...
 ```

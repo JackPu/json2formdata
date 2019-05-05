@@ -1,6 +1,6 @@
 {
   "name": "json2formdata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A function to transform JSON to form data.",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vcamvr/vr-player.git"
+    "url": "git+https://github.com/JackPu/json2formdata.git"
   },
   "files": [
     "README.md",
@@ -25,9 +25,9 @@
   "author": "Jack Pu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JackPu/daycaca/issues"
+    "url": "https://github.com/JackPu/json2formdata/issues"
   },
-  "homepage": "https://github.com/JackPu/daycaca#readme",
+  "homepage": "https://github.com/JackPu/json2formdata#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.0.0-beta.47",
     "babel-core": "^6.26.0",
